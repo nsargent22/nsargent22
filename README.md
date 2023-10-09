@@ -16,6 +16,7 @@ My name is Nathan, I'm a Data Analyst at northern Nevada's largest surgical grou
 - Python, SQL
 - SQLite, MariaDB
 - SharePoint, PowerBI, Excel
+- athenaHealth, Greenway Prime Suite
 
 <!--
 **nsargent22/nsargent22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
