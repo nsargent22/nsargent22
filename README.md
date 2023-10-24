@@ -1,6 +1,6 @@
 ## Hi there 😎
 
-My name is Nathan, I'm a Data Analyst at northern Nevada's largest surgical group. I use Python, Excel, and SQL to reveal business-driving metrics, generate shareholder reports, and provide workflow guidance to different departments at our 30+ provider practice. Outside of work I am passionate about aviation, and I earned my Private Pilot certificate in 2021.
+My name is Nathan, I'm a Data Analyst at northern Nevada's largest surgical group. I use Python, Excel, and SQL to reveal business-driving metrics, generate shareholder reports, and provide workflow guidance to different departments at our 30+ provider practice. Outside of the office I am passionate about aviation, and I earned my Private Pilot certificate in 2021.
 
 ### Education 🎓
 
